@@ -1,0 +1,6 @@
+.git
+.env
+.env.*
+*.db
+*.db-*
+gymapp.exe
